@@ -1,9 +1,9 @@
 /* Text */
 h1, h2, h3 , h4, h5, h6 {
-  font-family: 'Anton', sans-serif;
+  font-family: "Libre Baskerville" sans-serif;
 }
 p {
-  font-family: 'Jura', sans-serif;
+  font-family: "Libre Baskerville", sans-serif;
 }
 
 /* Navigation bar */
@@ -12,7 +12,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background: url("../images/transparency.png");
+  background: url("https://gilliancussenart.files.wordpress.com/2023/07/img-20230608-wa0015.jpg");
   background-color: transparent !important;
   background-size: cover;
   z-index: 10;
@@ -51,7 +51,7 @@ p {
 
 /* Jumbotron  */
 .jumbotron {
-  background-image: url(../images/rockOn_dark.jpg);
+  background-image: url(https://gilliancussenart.files.wordpress.com/2019/11/mj-e1572706542755.jpg?w=1500);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(100vh - 25px);
@@ -101,7 +101,7 @@ p {
 
 /* Footer */
 .emailContain {
-  background: url(../images/emailBG.jpg);
+  background-color: #16181b;
   background-size: cover;
   display: flex;
   align-items: center;
